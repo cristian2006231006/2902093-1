@@ -1,1 +1,1 @@
-hola, este archivo es uno de texto
+hola, este archivo es uno de texto, para el primer ejecicio de la clase de arquitectura
